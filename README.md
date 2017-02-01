@@ -1,2 +1,2 @@
 # filtertron-repo
-This is a test filtertron repo
+This is a test filtertron repo for learning.
