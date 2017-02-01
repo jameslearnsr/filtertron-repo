@@ -12,7 +12,7 @@ Here is some regular text.
 
 
 
-[Link to Google](http.//www.google.com)
+[Link to Google](https://www.google.com/)
 
 
 
